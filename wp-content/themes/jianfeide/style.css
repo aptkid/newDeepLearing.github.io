@@ -1,0 +1,212 @@
+/*
+Theme Name: 学建站网   
+Theme URI: http://www.xuejianzhan.com
+Description:学建站网
+Author: 小川 
+Author URI: http://www.xuejianzhan.com
+Version: 2.1 
+Tags: taoke,paihang ,yellow 
+*/
+body {
+	margin: auto; text-align: center; color: rgb(31, 55, 109); font-size: 12px;
+}
+.divA {
+	margin: 0px auto; width: 952px; height: auto; text-align: center;
+}
+.divB {
+	border: 1px solid rgb(205, 205, 205); width: 950px; height: auto;
+}
+.divC {
+	border: 1px solid rgb(205, 205, 205); width: 950px; height: auto; float: left;
+}
+.divC1 {
+	width: 950px; height: auto; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.divC2 {
+	width: 950px; height: auto;
+}
+.divC3 {
+	width: 950px; height: 20px;
+}
+.divC21 {
+	margin: 15px auto 0px; width: 880px; height: 180px;
+}
+.divC211 {
+	width: 880px; height: 20px; text-align: left; color: red; font-size: 14px; font-weight: bold;
+}
+.divC212 {
+	border: 1px solid rgb(255, 123, 0); width: 880px; height: 160px;
+}
+.divC2121 {
+	width: 80px; height: 160px; float: left;
+}
+.divC2122 {
+	width: 160px; height: 160px; border-right-color: rgb(255, 123, 0); border-left-color: rgb(255, 123, 0); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; float: left;
+}
+.divC2122 img { border:0}
+.divC2123 {
+	width: 638px; height: 160px; float: left;
+}
+.divC21231 {
+	margin: 5px auto 0px; width: 570px; height: 35px; text-align: left; color: rgb(31, 55, 109); font-size: 14px; font-weight: bold; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.divC21232 {
+	margin: 0px auto; width: 570px; height: 55px; text-align: left; color: rgb(31, 55, 109); padding-top: 10px; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.divC21233 {
+	margin: 0px auto; width: 570px; height: 37px; text-align: center; padding-top: 8px;
+}
+.divD {
+	width: 952px; height: 297px; margin-top: 10px; float: left;
+}
+.divD1 {
+	border: 1px solid rgb(205, 205, 205); width: 305px; height: 295px; float: left;
+}
+.divD2 {
+	width: 15px; height: 295px; float: left;
+}
+.divD11 {
+	width: 305px; height: 18px; text-align: left; padding-top: 7px; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.divD111 {
+	width: 250px; height: 20px; font-weight: bold; float: left;
+}
+.divD112 {
+	width: 55px; height: 20px; float: left;
+}
+.divD12 {
+	width: 305px; height: 270px;
+}
+.divD121 {
+	width: 300px; height: 20px;
+}
+.divD1211 {
+	 height: 13px; text-align: left; padding-top: 5px; float: left; padding-left:5px}
+
+.divD1211 li { width:290px; padding-bottom:3px; list-style-type:none }
+.divE {
+	border: 1px solid rgb(205, 205, 205); width: 950px; height: auto; margin-top: 10px; float: left;
+}
+.dive11 { border-bottom: 1px solid rgb(205, 205, 205); width: 950px; height: auto;  float: left;
+}
+.divE1 {
+	 height: 20px; color: rgb(78, 179, 15); text-indent: 12px; font-size: 14px; font-weight: bold; float: left; margin-top:8px; margin-left:-10px;
+}
+.divE2 {
+	padding: 2px; width: 930px; height: auto; text-align: left; line-height: 20px;
+}
+.divE21 {
+	padding: 2px; width: 910px; text-align: center; list-style-type:none
+}
+.divE p { padding-left:10px;}
+.divE22 {
+	padding: 2px; width: 900px; text-align: left;
+}
+.divF {
+	width: 950px; text-align: center; float: left;
+}
+.divNL {
+	border: 1px solid rgb(205, 205, 205); width: 950px; height: auto; margin-top: 10px;
+}
+.divNL1 {
+	width: 950px; height: 17px; text-align: left; padding-top: 8px; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.divNL2 {
+	padding: 10px; width: 930px; height: 500px;
+}
+.divNL21 {
+	width: 930px; height: 15px; text-align: left; padding-top: 5px;
+}
+.divNL22 {
+	padding: 5px; width: 830px; height: 15px; text-align: center; font-size: 14px; font-weight: bold; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.divNL23 {
+	padding: 5px; width: 830px; height: 15px; text-align: right;
+}
+.divNL24 {
+	padding: 5px; width: 830px; height: auto; text-align: left; line-height: 20px;
+}
+.divNL25 {
+	padding: 5px; width: 930px; height: auto; text-align: left; float: left;
+}
+.divNL251 {
+	padding: 5px; width: auto; height: 10px; float: left; word-break: keep-all;
+}
+.wrap {
+	width: auto; padding-right: 20px; float: left; 
+}
+.wrap li {float: left; list-style-type:none; padding-right:10px;}
+.wrap li a{float: left;}
+.divPG {
+	width: auto; height: 30px;
+}
+.divPG1 {
+	padding: 5px; border: 1px solid rgb(154, 175, 229); width: auto; height: 11px; color: rgb(46, 106, 177); margin-left: 5px; float: left; cursor: pointer;
+}
+.divPG2 {
+	padding: 5px; width: auto; height: 11px; margin-left: 5px; float: left;
+}
+.divPG3 {
+	width: 100%; height: 30px; text-align: right; margin-top: 10px; float: right;
+}
+.divPG3 a {
+	text-decoration: none;
+}
+.divF336 {
+	width: 930px; height: 30px; border-bottom-color: rgb(205, 205, 205); border-bottom-width: 1px; border-bottom-style: dashed; float: left;
+}
+.divF3361 {
+	width: 860px; height: 20px; text-align: left; padding-top: 10px; float: left; padding-left:5px
+}
+.divF3362 {
+	width: 60px; height: 20px; padding-top: 10px; float: left;
+}
+.divF338 {
+	width: 930px; height: 20px; margin-top: 20px; float: left;
+}
+.divF34 {
+	width: 930px; height: auto;
+}
+a {
+	color: rgb(31, 55, 109); text-decoration: none;
+}
+a:hover {
+	color: green; text-decoration: underline;
+}
+#foot {
+	padding: 16px 0px; text-align: center; color: rgb(85, 85, 85); line-height: 20px; font-family: Arial;
+}
+#foot a {
+	font-family: Arial;
+}
+.foot_menu {
+	color: rgb(208, 230, 192); margin-bottom: 2px;
+}
+.foot_menu a {
+	color: rgb(80, 178, 14);
+}
+.foot_menu a:hover {
+	color: rgb(255, 51, 0);
+}
+.fenye{ font-size:12px}
+/* Pagenavi */
+.wpagenavi{ margin:5px auto; width:94%; height:34px; line-height:34px; text-align:center;}
+.wpagenavi a:link, .wpagenavi a:visited{ margin:0 2px; padding:3px 7px; text-decoration:none; border:1px solid #CCC; color:#333;}
+.wpagenavi a:hover, .wpagenavi a:active{border:1px solid #950000; color:#950000; background:#DDD url(images/sprite.png) no-repeat 0 -118px;}
+.wpagenavi a.extend{ padding:3px 6px; color:#333;}
+.wpagenavi a.extend:hover{ color:#222 !important;}
+.wpagenavi a.current:link, .wpagenavi a.current:visited, .wpagenavi a.current:hover{ border:1px solid #950000; color:#950000; background:#DDD url(images/sprite.png) no-repeat 0 -118px;}
+
+.postnavi{ margin:0px auto 30px; padding:15px 0px 5px; text-align:center;}
+.previous_post, .next_post{ width:300px; height:24px; overflow:hidden;}
+.previous_post{ float:left; text-align:left;}
+.next_post{float:right; text-align:right;}
+.postnavi a:link, .postnavi a:visited{ color:#036; text-decoration:none;}
+.postnavi a:hover{ color:#B00; text-decoration:underline;}
+
+/*导航*/
+.menu{ border: 1px solid rgb(205, 205, 205); width: 100%; height:25px; line-height:25px; padding:5px 0; margin-top: 10px; float: left; color:#000}
+.menu ul{ margin:0px auto; padding:0px; width:100%; height:40px;}
+.menu li{float:left;display:inline; font-size:14px; padding:0 10px; }
+.menu a{ COLOR:#000; TEXT-DECORATION: none}
+.menu a:hover { COLOR: #f5740c;}

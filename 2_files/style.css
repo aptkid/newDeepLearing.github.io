@@ -1,0 +1,147 @@
+BODY {
+	BACKGROUND-IMAGE: url(topbg.jpg); BACKGROUND-COLOR: #fba800; MARGIN: 0px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; BACKGROUND-POSITION: center top; COLOR: #000000; FONT-SIZE: 14px
+}
+.line869 {
+	TEXT-ALIGN: center; WIDTH: 869px; DISPLAY: block; MARGIN-BOTTOM: 0px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.left {
+	WIDTH: 600px; DISPLAY: block; FLOAT: left
+}
+.wenzi {
+	FILTER: Alpha(Opacity=50); PADDING-BOTTOM: 10px; LINE-HEIGHT: 200%; BACKGROUND-COLOR: #ffffcc; PADDING-LEFT: 20px; WIDTH: 829px; PADDING-RIGHT: 20px; DISPLAY: block; FONT-FAMILY: "宋体"; COLOR: #000000; MARGIN-LEFT: auto; FONT-SIZE: 14px; MARGIN-RIGHT: auto; PADDING-TOP: 10px
+}
+.wenzi A {
+	COLOR: #d90000
+}
+.zi {
+	POSITION: relative
+}
+.linkhei12 {
+	COLOR: #000000
+}
+.logo {
+	BACKGROUND-COLOR: #ffffff; MARGIN-TOP: 11px; WIDTH: 221px; DISPLAY: block; FLOAT: left; HEIGHT: 78px; MARGIN-LEFT: 15px
+}
+.banner2 {
+	BACKGROUND-COLOR: #000000; MARGIN-TOP: 5px; WIDTH: 600px; DISPLAY: block; FLOAT: left; HEIGHT: 90px; MARGIN-LEFT: 15px
+}
+.cpctop {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; BACKGROUND-COLOR: #d90000; PADDING-LEFT: 10px; WIDTH: 857px; DISPLAY: block; HEIGHT: 30px; COLOR: #ffffff; MARGIN-LEFT: auto; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: auto
+}
+.cpcnr {
+	LINE-HEIGHT: 200%; BACKGROUND-COLOR: #ffffcc; PADDING-LEFT: 20px; WIDTH: 827px; PADDING-RIGHT: 20px; DISPLAY: block; HEIGHT: auto; MARGIN-LEFT: auto; FONT-SIZE: 14px; OVERFLOW: hidden; MARGIN-RIGHT: auto; PADDING-TOP: 20px
+}
+.soft {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; BACKGROUND-COLOR: #ffffcc; WIDTH: 867px; DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto; PADDING-TOP: 20px
+}
+.bjdaohang {
+	TEXT-ALIGN: left; LINE-HEIGHT: 30px; MARGIN: 2px auto; WIDTH: 867px; DISPLAY: block; BACKGROUND: url(../images/top_menuBg.gif) repeat-x 50% top; HEIGHT: 31px; COLOR: #fff; CLEAR: left; FONT-SIZE: 12px
+}
+.bjdaohang A {
+	FONT-FAMILY: "宋体",Arial; COLOR: #fff; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.qidongbanner {
+	WIDTH: 867px; DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.bdggtu {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid
+}
+.zhifubao {
+	TEXT-ALIGN: center; MARGIN-TOP: 5px; WIDTH: 400px; DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.linshihua {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; BACKGROUND-COLOR: #ff0000; MARGIN: 10px auto; WIDTH: 100%; DISPLAY: block; HEIGHT: 60px; COLOR: #ffffff; CLEAR: left; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.shejilct {
+	BORDER-BOTTOM: #d90000 1px solid; BORDER-LEFT: #d90000 1px solid; BORDER-TOP: #d90000 1px solid; BORDER-RIGHT: #d90000 1px solid
+}
+.line869_top {
+	BACKGROUND-COLOR: #ffffff; WIDTH: 869px; DISPLAY: block; HEIGHT: 100px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.zaixiankefubiaozi {
+	FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px
+}
+.yejiaozi {
+	TEXT-ALIGN: center; LINE-HEIGHT: 200%; MARGIN-TOP: 25px; WIDTH: 950px; DISPLAY: block; HEIGHT: auto; MARGIN-LEFT: auto; OVERFLOW: hidden; MARGIN-RIGHT: auto
+}
+.yejiaozi LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: inline; WHITE-SPACE: nowrap; FLOAT: left; PADDING-TOP: 8px
+}
+.block_info {
+	POSITION: absolute; DISPLAY: none; TOP: -999px; LEFT: -999px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.typeBox {
+	WIDTH: 250px; FLOAT: left
+}
+.typeBoxMore {
+	WIDTH: 250px; FLOAT: left
+}
+.typeBox DL {
+	
+}
+.typeBoxMore DL {
+	
+}
+.typeBox DT {
+	LINE-HEIGHT: 32px; TEXT-INDENT: 12px; BACKGROUND: url(item2.gif) no-repeat; HEIGHT: 30px; COLOR: #ffffff; FONT-SIZE: 14px; OVERFLOW: hidden; FONT-WEIGHT: bold; _padding-left: 12px
+}
+.typeBoxMore DT {
+	LINE-HEIGHT: 32px; TEXT-INDENT: 12px; BACKGROUND: url(item2.gif) no-repeat; HEIGHT: 30px; COLOR: #ffffff; FONT-SIZE: 14px; OVERFLOW: hidden; FONT-WEIGHT: bold; _padding-left: 12px
+}
+.typeBox DT A {
+	COLOR: #ffffff; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.typeBoxMore DT A {
+	COLOR: #ffffff; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.typeBox A {
+	COLOR: #000; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.typeBox DD {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 5px; MIN-HEIGHT: 136px; PADDING-LEFT: 5px; WIDTH: 238px; PADDING-RIGHT: 5px; BORDER-TOP: #cecece 1px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 5px
+}
+.typeBoxMore DD {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 5px; MIN-HEIGHT: 136px; PADDING-LEFT: 5px; WIDTH: 238px; PADDING-RIGHT: 5px; BORDER-TOP: #cecece 1px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 5px
+}
+.typeBoxMore DT {
+	BACKGROUND: url(item2more.gif) no-repeat
+}
+.right {
+	FLOAT: right
+}
+.listArrow0 UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.listArrow0 UL LI {
+	LINE-HEIGHT: 2; HEIGHT: 25px; OVERFLOW: hidden
+}
+.listArrow1 UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.listArrow1 UL LI {
+	LINE-HEIGHT: 2; PADDING-LEFT: 16px; BACKGROUND: url(arrow1.gif) no-repeat 0px 4px; HEIGHT: 25px; OVERFLOW: hidden
+}
+.listArrow2 UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.listArrow2 UL LI {
+	LINE-HEIGHT: 2; PADDING-LEFT: 18px; BACKGROUND: url(arrow2.gif) no-repeat 0px 4px; HEIGHT: 25px; OVERFLOW: hidden
+}
+.listArrow3 UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.listArrow3 UL LI {
+	LINE-HEIGHT: 2; PADDING-LEFT: 16px; BACKGROUND: url(arrow3.gif) no-repeat 0px 4px; HEIGHT: 25px; OVERFLOW: hidden
+}
